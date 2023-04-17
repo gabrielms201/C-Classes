@@ -6,3 +6,9 @@
 // Criar um metodo de alteracao (ex: multiplicar tudo por 2)
 // Criar um metodo de busca
 // ...
+
+#include <stdio.h>
+int main()
+{
+    printf("Hello world!\n");
+}
